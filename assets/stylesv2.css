@@ -72,7 +72,7 @@ nav{
 }
 
 #mainProject{
-    box-shadow: 0 0 3px gold ;
+    box-shadow: 0 8px 6px -6px gray;
 }
 
 #mainProject:hover{
@@ -127,4 +127,8 @@ nav{
 #emailBtn{
     background-color: red;
     color: white;
+}
+
+.link{
+    color: inherit;
 }
